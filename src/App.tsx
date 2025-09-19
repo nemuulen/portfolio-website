@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { motion, AnimatePresence } from 'motion/react';
+import { AnimatePresence } from 'motion/react';
 import { Navigation } from './components/Navigation';
 import { Hero } from './components/Hero';
 import { ProjectPreview } from './components/ProjectPreview';
