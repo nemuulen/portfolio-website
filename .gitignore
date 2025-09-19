@@ -64,6 +64,9 @@ jspm_packages/
 .cache
 .parcel-cache
 
+# Vite cache
+.vite/
+
 # next.js build output
 .next
 
